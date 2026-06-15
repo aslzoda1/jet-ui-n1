@@ -75,3 +75,6 @@ Bu loyiha mening zamonaviy Jetpack Compose va UI dizayn olamidagi ilk qadamlarim
   <b>Android Cafe — Shirin tajriba, kuchli kod!</b><br>
   Made with ☕ and Kotlin
 </p>
+
+
+aslzoda
