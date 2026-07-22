@@ -13,6 +13,7 @@
 **Android Cafe** — bu shunchaki ilova emas, balki Android operatsion tizimining shirinliklar olamiga sayohat! **Jetpack Compose** yordamida yaratilgan ushbu loyiha, Android'ning har bir versiyasini interaktiv dizayn va dinamik vizual uslublar orqali o'rganish imkonini beradi.
 
 > 💡 **Maqsad:** Zamonaviy Android UI elementlarini (Compose, M3, Animations) bitta "shirin" loyihada birlashtirish.
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/3f0f718e-20df-4659-b11d-b508f6f09ebe" />
 
 ---
 
